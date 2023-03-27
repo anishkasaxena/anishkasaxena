@@ -6,7 +6,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anishkasaxena&label=Profile%20views&color=0e75b6&style=flat" alt="anishkasaxena" /> </p>
 
-- 🔭 I’m currently working on **TCS**
+- 🔭 I’m currently working in **TCS**
 
 - 🌱 I’m currently learning **DevOps, Ansible,Jenkins,Kubernetes and AWS**
 
