@@ -6,15 +6,10 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anishkasaxena&label=Profile%20views&color=0e75b6&style=flat" alt="anishkasaxena" /> </p>
 
-- 🔭 I’m currently working in **TCS**
 
 - 🌱 I’m currently learning **DevOps, Ansible,Jenkins,Kubernetes and AWS**
 
 - 📝 I regularly write articles on [https://medium.com/@anishkasaxena12](https://medium.com/@anishkasaxena12)
-
-- 📫 How to reach me **anishkasaxena12@gmail.com**
-
-- 📄 Know about my experiences [https://www.linkedin.com/in/anishka-saxena-876618118/](https://www.linkedin.com/in/anishka-saxena-876618118/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
