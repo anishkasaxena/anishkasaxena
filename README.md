@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **work.anishka3@gmail.com**
 
-- 📄 Know about my experiences [Hi! I'm Anishka Saxena, a skilled DevOps Engineer proficient in Kubernetes, Docker, Jenkins, Terraform, Bash Scripting, and more. With experience from startups to TCS, I specialize in creating robust pipelines and automating processes.](Hi! I'm Anishka Saxena, a skilled DevOps Engineer proficient in Kubernetes, Docker, Jenkins, Terraform, Bash Scripting, and more. With experience from startups to TCS, I specialize in creating robust pipelines and automating processes.)
+- 📄 Know about my experiences Hi! I'm Anishka Saxena, a skilled DevOps Engineer proficient in Kubernetes, Docker, Jenkins, Terraform, Bash Scripting, and more. With experience from startups to TCS, I specialize in creating robust pipelines and automating processes.](Hi! I'm Anishka Saxena, a skilled DevOps Engineer proficient in Kubernetes, Docker, Jenkins, Terraform, Bash Scripting, and more. With experience from startups to TCS, I specialize in creating robust pipelines and automating processes.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
