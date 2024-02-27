@@ -3,13 +3,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anishkasaxena&label=Profile%20views&color=0e75b6&style=flat" alt="anishkasaxena" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=anishkasaxena" alt="anishkasaxena" /></a> </p>
-
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
 - 📫 How to reach me **work.anishka3@gmail.com**
 
-- 📄 Know about my experiences Hi! I'm Anishka Saxena, a skilled DevOps Engineer proficient in Kubernetes, Docker, Jenkins, Terraform, Bash Scripting, and more. With experience from startups to TCS, I specialize in creating robust pipelines and automating processes.](Hi! I'm Anishka Saxena, a skilled DevOps Engineer proficient in Kubernetes, Docker, Jenkins, Terraform, Bash Scripting, and more. With experience from startups to TCS, I specialize in creating robust pipelines and automating processes.
+- 📄 Know about my experiences [Hi! I'm Anishka Saxena, a skilled DevOps Engineer proficient in Kubernetes, Docker, Jenkins, Terraform, Bash Scripting, and more. With experience from startups to TCS, I specialize in creating robust pipelines and automating processes.](Hi! I'm Anishka Saxena, a skilled DevOps Engineer proficient in Kubernetes, Docker, Jenkins, Terraform, Bash Scripting, and more. With experience from startups to TCS, I specialize in creating robust pipelines and automating processes.)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
