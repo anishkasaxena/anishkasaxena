@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 📫 How to reach me **work.anishka3@gmail.com**
+- 📫 How to reach me **work.anishka03@gmail.com**
 
 - 📄 Know about my experiences</h4> - 🚀 Hey there, I'm a DevOps Engineer on a mission to streamline operations and drive innovation. With a wealth of experience from startups to TCS, I've mastered Kubernetes, Docker, Jenkins, Terraform, Bash Scripting, and more. Let's leverage my expertise in building resilient pipelines and automating workflows to supercharge your projects!
 
